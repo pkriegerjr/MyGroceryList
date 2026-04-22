@@ -1,3 +1,5 @@
+//O Software está apenas adicionando os valores sem distinguir de que produto estou adicionando, irei adicionar na proxima versão
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
